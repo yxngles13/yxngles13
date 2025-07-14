@@ -3,7 +3,6 @@
 I'm a Computer Science student at Cal Poly Pomona and an AI Fellow at Break Through Tech, hosted by Cornell Tech & Microsoft. I'm passionate about building useful tools — from AI-powered note-taking apps to full-stack web platforms that solve real problems.
 
 ## 🚀 What I'm Working On
-- 🧠 **BrainHive** – AI-powered smart notes + flashcard generator (CalHacks project)
 - 🧑‍💻 **Designated Driver App** – Think Uber, but for hiring drivers to drive your own car
 - 🧾 **Expense Tracker** – Full-stack web app using Firebase, Next.js, and Drizzle ORM
 
