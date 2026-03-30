@@ -4,7 +4,6 @@ I'm a Computer Science student at Cal Poly Pomona and an AI Fellow at Break Thro
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/yongthulawong)
-- 🧠 [My Projects](https://github.com/YongThuLaWong)
 - 📧 yongthulawong@gmail.com
 
 ## ⚡ Fun Fact
