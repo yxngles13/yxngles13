@@ -15,7 +15,7 @@ film, vlogging, music, piano, pilates, hiking, beaches, yapping with friends, ga
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/yongthulawong)
-- 👩🏻‍💻 (https://yongthulawong.vercel.app)
+- 👩🏻‍💻 [Yong's Portfolio Website](https://yongthulawong.vercel.app)
 - 📧 yongthulawong@gmail.com
 
 ## ⚡ Fun Fact
